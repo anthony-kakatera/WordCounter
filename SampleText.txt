@@ -1,0 +1,6 @@
+Linux provides a wide variety of commands and programs that are useful for 
+working with files. One of these programs is wc which is used to count the 
+number of words given one or more files as input.
+Your task is to replicate the behavior of the wc program and provide the number of lines, 
+words, and bytes, for each file, as well as a grand total for each of the tracked counters. The output of the 
+program should be similar to the following visual representation:
